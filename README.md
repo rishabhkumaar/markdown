@@ -9,6 +9,8 @@ Feel free to **star** ⭐ this repository if you find it useful.
 
 ---
 
+## A Quick to Use [TEMPLATE](TEMPLATE.md) for README.md
+
 ## Headings
 
 # H1 Heading
@@ -302,5 +304,3 @@ Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request to improve this cheat sheet.
 
 ---
-
-## A Quick to Use [TEMPLATE](TEMPLATE.md) for README.md
